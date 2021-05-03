@@ -1,6 +1,6 @@
 {
   "name": "hex-to-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts hexadecimal string to binary",
   "main": "dist/hex-to-bin.js",
   "repository": "https://github.com/ishabo/hex-to-bin",
